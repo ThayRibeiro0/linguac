@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort.
+
+How do you know?: real 0m0.341s, being the one that usually takes the longest.
+
+sort2 uses: Merge sort.
+
+How do you know?: real 0m0.100s, being the average delay between the selection and the buble.
+
+sort3 uses: Selection sort.
+
+How do you know?: real 0m0.172s, being the one that usually takes less.

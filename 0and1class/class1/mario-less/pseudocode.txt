@@ -1,0 +1,8 @@
+Write the base code with stdio and cs50 #include,
+besides that the type int and main (void) {}
+After the basic part ask to user to write the tall the pyramid
+Only will can be accept the answers with positive number between 1 and 8.
+The program should maintain the answer inside of the a variable
+The structure should to have rows, spaces and columns
+To see the program work use the printf and '#'
+Print \n separate in other paranteses.
